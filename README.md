@@ -1,3 +1,6 @@
+#Introducao
+Projeto da disciplina Desenvolvimento de Aplicações Corporativas do curso de Análise e Desenvolvimento de Sistemas. Contém dois back-ends diferentes, um para a parte front-end com HTML puro e o outro exclusivo para ser usado pelo front-end com o framework Vue.JS (Aqui existe o login e o CRUD de endereço para este usuário logado).
+
 # ifpb_monteiro_dac_2021_2_grupo_1
 Este sistema é uma loja virtual que realiza a venda de livros online. Possui dois papéis principais: o de administrador, que seria o responsável por cadastrar livros, adicionar livros ao estoque e outras funcionalidades próprias de administrador, e de cliente que seria o usuário que efetua a compra dos livros. 
 
